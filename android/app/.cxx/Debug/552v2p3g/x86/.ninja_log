@@ -1,0 +1,5 @@
+# ninja log v5
+0	11	0	/Users/kaustubh/Documents/GitHub/starter/starter/android/app/.cxx/Debug/552v2p3g/x86/CMakeFiles/cmake.verify_globs	ea588868217d3983
+0	1085	1738598036310130198	CMakeFiles/appmodules.dir/Users/kaustubh/Documents/GitHub/starter/starter/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	997c2f534627a648
+0	1240	1738598036461872525	CMakeFiles/appmodules.dir/OnLoad.cpp.o	67c1d83b078a509c
+1240	1300	1738598036527044766	/Users/kaustubh/Documents/GitHub/starter/starter/android/app/build/intermediates/cxx/Debug/552v2p3g/obj/x86/libappmodules.so	daa0f094a8482138

@@ -1,0 +1,27 @@
+# ninja log v5
+0	1118	1738602826369864826	CMakeFiles/appmodules.dir/Users/kaustubh/Documents/GitHub/starter/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	750f85316fbb1ca6
+1225	1286	1738602826541426162	/Users/kaustubh/Documents/GitHub/starter/android/app/build/intermediates/cxx/Debug/16c1d2j6/obj/x86_64/libappmodules.so	fcf007e1fa230109
+0	1225	1738602826476495511	CMakeFiles/appmodules.dir/OnLoad.cpp.o	75f55dce369ead28
+0	11	0	/Users/kaustubh/Documents/GitHub/starter/android/app/.cxx/Debug/16c1d2j6/x86_64/CMakeFiles/cmake.verify_globs	a8775fc330389825
+0	11	0	/Users/kaustubh/Documents/GitHub/starter/android/app/.cxx/Debug/16c1d2j6/x86_64/CMakeFiles/cmake.verify_globs	a8775fc330389825
+4	1610	1738604009662760418	rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/States.cpp.o	7b76d3ed32453af
+4	2164	1738604010217103047	rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/EventEmitters.cpp.o	ef7def1f658528d0
+4	2526	1738604010574407574	rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/Props.cpp.o	d33085a2d02d3d8
+4	2558	1738604010608515149	rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/ShadowNodes.cpp.o	35c61e865f8092bb
+6	2614	1738604010664538045	rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/rnreanimatedJSI-generated.cpp.o	2ef84db2ef7aec53
+7	2788	1738604010813262764	rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/rnreanimated-generated.cpp.o	64956b214cbe1894
+4	2888	1738604010931819769	rnreanimated_autolinked_build/CMakeFiles/react_codegen_rnreanimated.dir/react/renderer/components/rnreanimated/ComponentDescriptors.cpp.o	34af5e4970f29094
+8	2906	1738604010958698875	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/kaustubh/Documents/GitHub/starter/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewState.cpp.o	f61a0a2cfb45559c
+4	3141	1738604011186408152	CMakeFiles/appmodules.dir/OnLoad.cpp.o	deb9b4d1c76e5bc1
+2164	3928	1738604011980822645	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/kaustubh/Documents/GitHub/starter/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/EventEmitters.cpp.o	46279a9dd6d1f6a3
+2788	4075	1738604012125642668	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/kaustubh/Documents/GitHub/starter/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/States.cpp.o	21c4f5ca2166ddfc
+4	4364	1738604012381250434	CMakeFiles/appmodules.dir/Users/kaustubh/Documents/GitHub/starter/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	d05fac55587426f7
+2888	4487	1738604012532220001	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/kaustubh/Documents/GitHub/starter/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/safeareacontextJSI-generated.cpp.o	5e47601e60662add
+2906	4553	1738604012604940682	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/kaustubh/Documents/GitHub/starter/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/safeareacontext-generated.cpp.o	adc179bb78791448
+1610	4635	1738604012684642621	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/kaustubh/Documents/GitHub/starter/node_modules/react-native-safe-area-context/common/cpp/react/renderer/components/safeareacontext/RNCSafeAreaViewShadowNode.cpp.o	3ef4a1409de9f4bd
+2559	4636	1738604012684666996	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/kaustubh/Documents/GitHub/starter/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/Props.cpp.o	75bc53c6ba320bce
+2614	4647	1738604012702516872	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/kaustubh/Documents/GitHub/starter/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ShadowNodes.cpp.o	7c763cffc9b00c8b
+2526	4896	1738604012944771876	safeareacontext_autolinked_build/CMakeFiles/react_codegen_safeareacontext.dir/Users/kaustubh/Documents/GitHub/starter/node_modules/react-native-safe-area-context/android/build/generated/source/codegen/jni/react/renderer/components/safeareacontext/ComponentDescriptors.cpp.o	bd2559c4be652802
+4896	4967	1738604013020445078	/Users/kaustubh/Documents/GitHub/starter/android/app/build/intermediates/cxx/Debug/16c1d2j6/obj/x86_64/libreact_codegen_safeareacontext.so	71a95414338132d2
+4967	5020	1738604013073768746	/Users/kaustubh/Documents/GitHub/starter/android/app/build/intermediates/cxx/Debug/16c1d2j6/obj/x86_64/libappmodules.so	b4221a1c1cbd83ae
+0	15	0	/Users/kaustubh/Documents/GitHub/starter/android/app/.cxx/Debug/16c1d2j6/x86_64/CMakeFiles/cmake.verify_globs	a8775fc330389825
