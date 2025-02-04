@@ -7,7 +7,7 @@ import "./global.css";
 const App = () => {
   return (
     <View>
-      <Text className='text-red-500 font-bold bg-white italic' >App</Text>
+      <Text className='text-red-500 font-bold bg-white italic' >App.</Text>
     </View>
   )
 }
